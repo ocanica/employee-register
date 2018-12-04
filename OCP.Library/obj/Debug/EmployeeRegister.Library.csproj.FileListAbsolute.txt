@@ -1,0 +1,6 @@
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\OCP.Library\obj\Debug\EmployeeRegister.Library.csprojAssemblyReference.cache
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\OCP.Library\obj\Debug\EmployeeRegister.Library.csproj.CoreCompileInputs.cache
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\OCP.Library\bin\Debug\EmployeeRegister.Library.dll
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\OCP.Library\bin\Debug\EmployeeRegister.Library.pdb
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\OCP.Library\obj\Debug\EmployeeRegister.Library.dll
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\OCP.Library\obj\Debug\EmployeeRegister.Library.pdb

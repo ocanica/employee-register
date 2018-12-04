@@ -1,0 +1,20 @@
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\ConsoleUI\bin\Debug\EmployeeRegister.Library.dll
+C:\Users\ocani\Google Drive\Code\learning\csharp-learning\SOLID\Open Closed Principle\OCP\ConsoleUI\bin\Debug\EmployeeRegister.Library.pdb
+C:\Users\ocani\Google Drive\Code\projects\csharp\EmployeeRegister\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\ocani\Google Drive\Code\projects\csharp\EmployeeRegister\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\ocani\Google Drive\Code\projects\csharp\EmployeeRegister\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\ocani\Google Drive\Code\projects\csharp\EmployeeRegister\ConsoleUI\bin\Debug\EmployeeRegister.Library.dll
+C:\Users\ocani\Google Drive\Code\projects\csharp\EmployeeRegister\ConsoleUI\bin\Debug\EmployeeRegister.Library.pdb
+C:\Users\ocani\Google Drive\Code\projects\csharp\EmployeeRegister\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\ocani\Google Drive\Code\projects\csharp\EmployeeRegister\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\ocani\Google Drive\Code\projects\csharp\EmployeeRegister\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\ocani\Google Drive\Code\projects\csharp\EmployeeRegister\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\ocani\Google Drive\Code\projects\csharp\EmployeeRegister\ConsoleUI\obj\Debug\ConsoleUI.pdb
